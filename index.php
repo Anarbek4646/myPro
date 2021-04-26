@@ -19,7 +19,7 @@
 
 
   <p align="center">
-    <img src="C:\atom\Web Development\myProfile\index.html\ewrwer.png" width="200" height="200" alt="Aanarbek" />
+    <img src="C:\atom\Web Development\myProfile\index.php\ewrwer.png" width="200" height="200" alt="Aanarbek" />
   </p>
 
   <h1 align="center">
@@ -37,14 +37,14 @@
         <td>
           <ul>
             <li>
-              <p><a href="C:\atom\Web Development\myProfile\index.html\anarbek.html">
+              <p><a href="C:\atom\Web Development\myProfile\index.php\anarbek.php">
                   <h3>myBiography</h3>
                 </a>(detailed information what how)</p>
             </li>
-            <li><a href="C:\atom\Web Development\myProfile\index.html\fred.html">
+            <li><a href="C:\atom\Web Development\myProfile\index.php\fred.php">
                 <h3>myProject</h3>
               </a>(all about my projects that have found success)</li>
-            <li><a href="C:\atom\Web Development\myProfile\index.html\myCompany.html">
+            <li><a href="C:\atom\Web Development\myProfile\index.php\myCompany.php">
                 <h3>myCompany</h3>
               </a>(all about my projects that have found success)</li>
           </ul>
@@ -61,14 +61,14 @@
         <td>
           <ul>
             <li>
-              <p><a href="C:\atom\Web Development\myProfile\index.html\anarbek.html">
+              <p><a href="C:\atom\Web Development\myProfile\index.php\anarbek.php">
                   <h3>myBiography</h3>
                 </a>(detailed information what how)</p>
             </li>
-            <li><a href="C:\atom\Web Development\myProfile\index.html\fred.html">
+            <li><a href="C:\atom\Web Development\myProfile\index.php\fred.php">
                 <h3>myProject</h3>
               </a>(all about my projects that have found success)</li>
-            <li><a href="C:\atom\Web Development\myProfile\index.html\myCompany.html">
+            <li><a href="C:\atom\Web Development\myProfile\index.php\myCompany.php">
                 <h3>myCompany</h3>
               </a>(all about my projects that have found success)</li>
           </ul>
