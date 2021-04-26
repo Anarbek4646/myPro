@@ -19,7 +19,7 @@
 
 
   <p align="center">
-    <img src="https://www.completecontroller.com/wp-content/uploads/Hackers-Complete-Controller.jpg" width="200" height="200" alt="Aanarbek" />
+    <img src="D:\download\profile\myPro\ewrwer.png" width="200" height="200" alt="Aanarbek" />
   </p>
 
   <h1 align="center">
